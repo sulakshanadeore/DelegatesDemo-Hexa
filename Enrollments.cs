@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 namespace LibraryForDelegates
 {
     public delegate void CourseFees(int f1, int f2);//Step 2 Declare a declare which references the method
-
+    
     public class Enrollments//Step 1 create the class with the Method
     {
+      
         static int _receiptno=1;
         public int TotalFees { get; set; }
         public double Discount { get; set; }

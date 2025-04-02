@@ -2,3 +2,8 @@
 1)Unicast : When the return type is  void or any other type and only one method reference
 is passed to the delegate object.
 2)Multicast: When the return is compulsory void and multiple method references are passed to the delegate object 
+
+
+Event Handling
+MultiThreading
+Lambda Operations
